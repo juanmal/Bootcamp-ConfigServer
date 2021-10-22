@@ -2,6 +2,10 @@ server:
   port: 8081
 some:
   value1: variable 1
+  value2: variable 2
+  value3: variable 3
+  value4: variable 4
+  value5: variable 5
 management:
   endpoints:
     web:
