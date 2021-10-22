@@ -1,0 +1,13 @@
+server:
+  port: 8082
+some:
+  value1: variable 1 produccion
+  value2: variable 2 produccion
+  value3: variable 3 produccion
+  value4: variable 4 produccion
+  value5: variable 5 produccion
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

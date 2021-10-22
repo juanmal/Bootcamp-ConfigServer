@@ -1,0 +1,13 @@
+server:
+  port: 8083
+some:
+  value1: variable 1 test
+  value2: variable 2 test
+  value3: variable 3 test
+  value4: variable 4 test
+  value5: variable 5 test
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
