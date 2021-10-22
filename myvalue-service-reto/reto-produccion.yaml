@@ -1,11 +1,11 @@
 server:
   port: 8082
 some:
-  value1: variable 1 produccion
-  value2: variable 2 produccion
-  value3: variable 3 produccion
-  value4: variable 4 produccion
-  value5: variable 5 produccion
+  value1: variable 1 produccion modificada
+  value2: variable 2 produccion modificada
+  value3: variable 3 produccion modificada
+  value4: variable 4 produccion modificada
+  value5: variable 5 produccion modificada
 management:
   endpoints:
     web:
