@@ -1,7 +1,7 @@
 server:
   port: 8083
 some:
-  value: Valor del servidor produccion
+  value: Valor del servidor produccion modificado
 management:
   endpoints:
     web:
